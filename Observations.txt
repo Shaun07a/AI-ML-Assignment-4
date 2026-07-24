@@ -1,0 +1,11 @@
+Observation 1
+
+The K-Nearest Neighbors classifier correctly classifies most tumors, resulting in high Accuracy, Precision, Recall, and F1-Score.
+
+Observation 2
+
+Standardizing the feature values significantly improves the performance of KNN because the algorithm relies on distance calculations.
+
+Observation 3
+
+The confusion matrix shows that only a small number of tumors are misclassified, indicating that KNN performs effectively on this dataset.

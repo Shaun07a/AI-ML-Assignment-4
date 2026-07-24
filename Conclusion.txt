@@ -1,0 +1,8 @@
+The K-Nearest Neighbors classifier was successfully developed to classify breast tumors as either 
+malignant or benign using diagnostic measurements. Data preprocessing included removing unnecessary 
+columns, encoding the target variable, standardizing feature values, and splitting the dataset into training 
+and testing sets. The evaluation metrics demonstrate that the model performs accurately and reliably for 
+this classification task. Feature scaling plays a vital role in KNN because the algorithm calculates distances 
+between data points, and unscaled features can negatively affect the results. One limitation of the KNN 
+algorithm is that its prediction time increases as the dataset grows larger, making it less efficient for very 
+large datasets.
